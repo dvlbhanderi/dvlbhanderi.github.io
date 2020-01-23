@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "#WELCOME TO MY HOMEPAGE"
+title: "WELCOME TO MY HOMEPAGE"
 excerpt: "WELCOME TO MY HOMEPAGE"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-
-
-
-
+<!--
+<p align="right">
+  <img src="https://github.com/dvlbhanderi/dvlbhanderi.github.io/blob/master/images/profile3.png" alt="Photo" style="width: 200px;"/> 
+</p>
+-->
 
 I am currently a graduate student pursuing MS in Computer Science at [University of Georgia, Athens](https://www.uga.edu/). I am a member of the [Heterogeneous Robotics(HeRo) Lab](http://hero.uga.edu/), under the supervision of [Prof. Ramviyas Parasuraman](http://cobweb.cs.uga.edu/~ramviyas/) on Robotic Perception. I am also working as Research Assistant at [Centre for Geospatial Research](http://cgr.uga.edu/) under the guidance of [Dr. Sergio Bernardes](http://cgr.uga.edu/index.php/about/sergio-bernardes/index.html).
 
