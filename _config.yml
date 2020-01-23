@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Dhaval Bhanderi"
-  avatar           : "profile.jpg"
-  bio              : "Graduate student majoring in Computer Science at University of Georgia, Athens"
+  avatar           : "profile1.png"
+  bio              : "Graduate Student majoring in Computer Science at University of Georgia, Athens"
   location         : "Athens, GA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/dvlbhanderi"
+  github           : "dvlbhanderi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/dhaval-bhanderi/"
+  linkedin         : "dhaval-bhanderi"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
