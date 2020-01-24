@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-- I am a graduate student pursuing MS in Computer Science at [University of Georgia, Athens](https://www.uga.edu/). I am a member of the [Heterogeneous Robotics(HeRo) Lab](http://hero.uga.edu/), under the supervision of [Prof. Ramviyas Parasuraman](http://cobweb.cs.uga.edu/~ramviyas/) on Robotic Perception. I am also working as a Graduate Research Assistant at [Centre for Geospatial Research](http://cgr.uga.edu/) under the guidance of [Dr. Sergio Bernardes](http://cgr.uga.edu/index.php/about/sergio-bernardes/index.html).
+- I am a graduate student pursuing MS in Computer Science at [University of Georgia, Athens](https://www.uga.edu/) advised by [Prof. Ramviyas Parasuraman](http://cobweb.cs.uga.edu/~ramviyas/). I am a member of the [Heterogeneous Robotics(HeRo) Lab](http://hero.uga.edu/), working on Robotic Perception and Mapping. I am also working as a Graduate Research Assistant at [Centre for Geospatial Research](http://cgr.uga.edu/) under the guidance of [Dr. Sergio Bernardes](http://cgr.uga.edu/index.php/about/sergio-bernardes/index.html).
 
 - My research interest broadly lies in the area of Machine Learning and Data Science. Specifically, I am interested in employing Deep Learning, Computer Vision and NLP techniques to solve the problems in robotics, healthcare and enterprise AI domains. 
 
