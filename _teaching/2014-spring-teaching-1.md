@@ -1,14 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Teaching Assistantship"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "University of Georgia, Department of Computer Science."
+date: 2020-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+- Graduate Teaching Assistant for the course CSCI 2720 Data Structures.
+
+- Assisting students in learning concepts of basic Data and File Structures and Programming in C++.
+
+- Assisting professor in grading programming assignments and examinations. 
 
 Heading 1
 ======
